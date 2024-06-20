@@ -27,7 +27,7 @@ Explore the Website Clone live: [Iphone 15 Pro Website Clone Live](https://iphon
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone https://github.com/AbhayBhaskar1/Apple-iPhone-15-Pro-Website-Clone.git
 cd iphone-doc
 ```
 
