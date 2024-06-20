@@ -1,17 +1,13 @@
-<<<<<<< HEAD
 <h3 align="center">Iphone 15 Pro Website Clone</h3>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-=======
-  <h3 align="center">Iphone 15 Pro Website Clone</h3>
+## Live Project
+
+Explore the Website Clone live: [Iphone 15 Pro Website Clone Live](https://iphone-15-website-clone.web.app/)
 
 ## <a name="tech-stack">Tech Stack</a>
->>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
 
 - React.js
 - Three.js
-- React Three Fiber
-- React Three Drei
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
@@ -26,13 +22,8 @@
 
  **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
 
-
-
-<<<<<<< HEAD
-=======
 ## <a name="quick-start"> Quick Start</a>
 
->>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
 **Cloning the Repository**
 
 ```bash
@@ -53,10 +44,4 @@ npm install
 ```bash
 npm run dev
 ```
-
-<<<<<<< HEAD
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-=======
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
->>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
