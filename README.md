@@ -8,8 +8,6 @@ Explore the Website Clone live: [Iphone 15 Pro Website Clone Live](https://iphon
 
 - React.js
 - Three.js
-- React Three Fiber
-- React Three Drei
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
