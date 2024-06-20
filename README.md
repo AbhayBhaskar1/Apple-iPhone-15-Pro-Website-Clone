@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <h3 align="center">Iphone 15 Pro Website Clone</h3>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
+=======
+  <h3 align="center">Iphone 15 Pro Website Clone</h3>
+
+## <a name="tech-stack">Tech Stack</a>
+>>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
 
 - React.js
 - Three.js
@@ -10,20 +16,23 @@
 - Vite
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
-👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
+ **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
 
-👉 **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+ **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
 
-👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+ **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
 
-👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+ **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
 
-and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
 
+<<<<<<< HEAD
+=======
+## <a name="quick-start"> Quick Start</a>
+
+>>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
 **Cloning the Repository**
 
 ```bash
@@ -45,4 +54,9 @@ npm install
 npm run dev
 ```
 
+<<<<<<< HEAD
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+=======
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+>>>>>>> bf1796932dfd31fee225efbbcfc9c29b85c63903
