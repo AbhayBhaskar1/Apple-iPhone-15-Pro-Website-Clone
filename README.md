@@ -2,7 +2,7 @@
 
 ## Live Project
 
-Explore the Website Clone live: [Iphone 15 Pro Website Clone Live](https://netflix-clone-ccd3d.web.app/)
+Explore the Website Clone live: [Iphone 15 Pro Website Clone Live](https://iphone-15-website-clone.web.app/)
 
 ## <a name="tech-stack">Tech Stack</a>
 
